@@ -1,7 +1,14 @@
 # Relearning Mathematics
+To go from incomprehension to half-understanding to complete understanding 
+is an exciting and inspiring journey of discovery
+worthy of the spirit of a mature person. 
 
 ## Viewpoint
 http://paulgraham.com/safe.html for the emphasis on [hyperlinear] growth rate
+
+http://lesswrong.com/lw/jyg/outline_summary_the_procrastination_equation/
+
+http://lesswrong.com/lw/3w3/how_to_beat_procrastination/
 
 ## Setting the Foundation
 Chronobiology -- GET YOUR SLEEP
