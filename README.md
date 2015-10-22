@@ -19,6 +19,14 @@ Chronotherapy / Reset Your Inner Clock by Michael Terman & Ian McMahan
 
 For fun, read Internal Time by Till Roenneberg
 
+http://cogsci.stackexchange.com/questions/4514/what-is-the-most-effective-maximum-work-duration-per-day
+http://www.wsj.com/articles/SB10000872396390444180004578018294057070544
+https://www.quora.com/What-time-of-day-is-best-for-cognitive-work-creative-work-and-other-types-of-work
+https://news.ycombinator.com/item?id=5173398
+Littlewood
+https://books.google.com/books?id=MjVgeT7Laf8C&pg=PA197&lpg=PA197&dq=four+hours+littlewood&source=bl&ots=ov_aq-LKL-&sig=fHBJddj5TiOqAVwDCluNAHm8Onk&hl=en&sa=X&ved=0CCcQ6AEwAmoVChMIyeD-nJ7VyAIVQtYeCh3e4wYG#v=onepage&q=four%20hours%20littlewood&f=false
+
+
 ## Preliminaries
 
 Arithmetic for Parents, by Ron Aharoni
