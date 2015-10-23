@@ -27,6 +27,9 @@ Littlewood
 https://books.google.com/books?id=MjVgeT7Laf8C&pg=PA197&lpg=PA197&dq=four+hours+littlewood&source=bl&ots=ov_aq-LKL-&sig=fHBJddj5TiOqAVwDCluNAHm8Onk&hl=en&sa=X&ved=0CCcQ6AEwAmoVChMIyeD-nJ7VyAIVQtYeCh3e4wYG#v=onepage&q=four%20hours%20littlewood&f=false
 
 
+Growth?
+http://slatestarcodex.com/2015/04/08/no-clarity-around-growth-mindset-yet/
+
 ## Preliminaries
 
 Arithmetic for Parents, by Ron Aharoni
