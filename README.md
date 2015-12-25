@@ -9,6 +9,9 @@ http://paulgraham.com/safe.html for the emphasis on [hyperlinear] growth rate
 http://lesswrong.com/lw/jyg/outline_summary_the_procrastination_equation/
 
 http://lesswrong.com/lw/3w3/how_to_beat_procrastination/
+https://docs.google.com/document/d/1aDGNKzOW0uHJ8T33w0dPOmQx67mcXNNHHK5qa2EoywI/edit
+https://docs.google.com/document/d/15HOaUPe4-t-xz__CdTqiTzHCAat-MTRljNguSPcb4AY/edit
+
 
 ## Setting the Foundation
 Chronobiology -- GET YOUR SLEEP
@@ -29,6 +32,12 @@ https://books.google.com/books?id=MjVgeT7Laf8C&pg=PA197&lpg=PA197&dq=four+hours+
 
 Growth?
 http://slatestarcodex.com/2015/04/08/no-clarity-around-growth-mindset-yet/
+
+Mathematical Mindsets
+YouCubed
+
+Mathematical Problem Solving
+
 
 ## Preliminaries
 
@@ -51,3 +60,7 @@ www.elementsofmathematics.com
 Exeter Math Problem Sets
 
 http://www.exeter.edu/academics/72_6539.aspx
+
+Thinking Mathematically Mason et al
+Discovering Mathematics: The Art of Investigation
+How to Solve Problems: New Methods and Ideas
