@@ -13,6 +13,8 @@ https://docs.google.com/document/d/1aDGNKzOW0uHJ8T33w0dPOmQx67mcXNNHHK5qa2EoywI/
 https://docs.google.com/document/d/15HOaUPe4-t-xz__CdTqiTzHCAat-MTRljNguSPcb4AY/edit
 https://docs.google.com/document/d/1AJjuy-_8Y3QcaGRQY9LVaECtoI_auJpijL26llhBhMc/edit
 
+http://lesswrong.com/lw/2vb/vanity_and_ambition_in_mathematics/
+
 
 ## Setting the Foundation
 Chronobiology -- GET YOUR SLEEP
