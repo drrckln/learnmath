@@ -11,6 +11,7 @@ http://lesswrong.com/lw/jyg/outline_summary_the_procrastination_equation/
 http://lesswrong.com/lw/3w3/how_to_beat_procrastination/
 https://docs.google.com/document/d/1aDGNKzOW0uHJ8T33w0dPOmQx67mcXNNHHK5qa2EoywI/edit
 https://docs.google.com/document/d/15HOaUPe4-t-xz__CdTqiTzHCAat-MTRljNguSPcb4AY/edit
+https://docs.google.com/document/d/1AJjuy-_8Y3QcaGRQY9LVaECtoI_auJpijL26llhBhMc/edit
 
 
 ## Setting the Foundation
