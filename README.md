@@ -15,6 +15,8 @@ https://docs.google.com/document/d/1AJjuy-_8Y3QcaGRQY9LVaECtoI_auJpijL26llhBhMc/
 
 http://lesswrong.com/lw/2vb/vanity_and_ambition_in_mathematics/
 
+https://news.ycombinator.com/item?id=10820483
+
 
 ## Setting the Foundation
 Chronobiology -- GET YOUR SLEEP
@@ -25,12 +27,16 @@ Chronotherapy / Reset Your Inner Clock by Michael Terman & Ian McMahan
 
 For fun, read Internal Time by Till Roenneberg
 
+https://news.ycombinator.com/item?id=10826344
+https://news.ycombinator.com/item?id=10845056
+
 http://cogsci.stackexchange.com/questions/4514/what-is-the-most-effective-maximum-work-duration-per-day
 http://www.wsj.com/articles/SB10000872396390444180004578018294057070544
 https://www.quora.com/What-time-of-day-is-best-for-cognitive-work-creative-work-and-other-types-of-work
 https://news.ycombinator.com/item?id=5173398
 Littlewood
 https://books.google.com/books?id=MjVgeT7Laf8C&pg=PA197&lpg=PA197&dq=four+hours+littlewood&source=bl&ots=ov_aq-LKL-&sig=fHBJddj5TiOqAVwDCluNAHm8Onk&hl=en&sa=X&ved=0CCcQ6AEwAmoVChMIyeD-nJ7VyAIVQtYeCh3e4wYG#v=onepage&q=four%20hours%20littlewood&f=false
+https://news.ycombinator.com/item?id=10841761
 
 
 Growth?
@@ -40,6 +46,7 @@ Mathematical Mindsets
 YouCubed
 
 Mathematical Problem Solving
+http://www-personal.umich.edu/~jjonides/pdf/2008_2.pdf
 
 
 ## Preliminaries
