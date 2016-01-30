@@ -38,6 +38,7 @@ Littlewood
 https://books.google.com/books?id=MjVgeT7Laf8C&pg=PA197&lpg=PA197&dq=four+hours+littlewood&source=bl&ots=ov_aq-LKL-&sig=fHBJddj5TiOqAVwDCluNAHm8Onk&hl=en&sa=X&ved=0CCcQ6AEwAmoVChMIyeD-nJ7VyAIVQtYeCh3e4wYG#v=onepage&q=four%20hours%20littlewood&f=false
 https://news.ycombinator.com/item?id=10841761
 
+https://medium.com/life-learning/how-to-learn-5c6c815051#.y025p4lb9
 
 Growth?
 http://slatestarcodex.com/2015/04/08/no-clarity-around-growth-mindset-yet/
