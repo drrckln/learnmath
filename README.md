@@ -46,6 +46,8 @@ http://slatestarcodex.com/2015/04/08/no-clarity-around-growth-mindset-yet/
 Mathematical Mindsets
 YouCubed
 
+https://www.quora.com/How-do-top-students-study
+
 Mathematical Problem Solving
 http://www-personal.umich.edu/~jjonides/pdf/2008_2.pdf
 
