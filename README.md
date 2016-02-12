@@ -48,6 +48,10 @@ YouCubed
 
 https://www.quora.com/How-do-top-students-study
 
+http://www.sciencealert.com/this-simple-tip-to-learn-maths-equations-actually-works
+http://www.sciencealert.com/scientists-have-found-a-technique-that-helps-you-learn-new-skills-twice-as-fast
+http://www.cell.com/cms/attachment/2045379445/2056784269/mmc2.pdf
+
 Mathematical Problem Solving
 http://www-personal.umich.edu/~jjonides/pdf/2008_2.pdf
 
